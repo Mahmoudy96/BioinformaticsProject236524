@@ -4,7 +4,7 @@
 
 Files containing a list of changes found in the aligned reads, for each combination of nucleotide in the reference miRNA database, and nucleotide found in the sequencing.
 
-**Differential Expression:**
+**Gene Counts and Differential Expression:**
 
 Plots and tables of the differential expression analysis done using BISEK. Also contains the gene counts created from alignment of the sequenced mirna to the reference miRNA database
 
