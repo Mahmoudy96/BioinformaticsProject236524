@@ -15,3 +15,6 @@ Utility functions used in generation of edit percents
 **Generate_Edit_Counts_And_Percents.py:**
 
 Code written to get edit counts and percents from aligned files.
+
+**mirna_pipeline.py:**
+Alignment of read libraries to reference, pileup generation, genecount generation
