@@ -10,7 +10,7 @@ Plots and tables of the differential expression analysis done using BISEK. Also 
 
 **Utility:**
 
-Utility functions used in generation of edit percents
+Utility functions used in generation of edit percents and alignment data
 
 **Generate_Edit_Counts_And_Percents.py:**
 
